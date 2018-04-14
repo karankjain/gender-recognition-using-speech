@@ -1,0 +1,13 @@
+Please note the below points to execute the code for our experiments:
+
+All the code is written in python and are placed under MLFinal/CS596/ and the data file is under MLFinal/input/voice.csv. Please do not change this path.
+
+To run the programs please install python3 on your machine and install the following libraries:
+
+numpy
+pandas
+matplotlib
+operator
+sklearn
+mlxtend
+subprocess
